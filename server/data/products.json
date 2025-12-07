@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "price": 99.99,
+        "description": "High-quality wireless headphones with noise cancellation.",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+    },
+    {
+        "id": 2,
+        "title": "Smart Watch",
+        "price": 199.99,
+        "description": "Track your fitness and stay connected with this smart watch.",
+        "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Gaming Mouse",
+        "price": 49.99,
+        "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&q=80"
+    },
+    {
+        "id": 4,
+        "title": "Mechanical Keyboard",
+        "price": 129.99,
+        "description": "Tactile mechanical keyboard for the ultimate typing experience.",
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b91a603?w=500&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Laptop Stand",
+        "price": 29.99,
+        "description": "Adjustable aluminum laptop stand for better ergonomics.",
+        "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&q=80"
+    },
+    {
+        "id": 6,
+        "title": "USB-C Hub",
+        "price": 39.99,
+        "description": "Expand your connectivity with this 7-in-1 USB-C hub.",
+        "image": "https://images.unsplash.com/photo-1625766763788-95dcce9bf5ac?w=500&q=80"
+    }
+]
