@@ -27,9 +27,11 @@ export default function Home() {
             <div className="md:w-1/2 flex justify-center">
               <div className="relative w-[600px] h-[400px]">
                 {/* Placeholder for Hero Image - using a div for now to avoid Next.js Image errors if remote patterns aren't set */}
-                <div className="w-full h-full bg-gradient-to-br from-indigo-500 to-purple-600 rounded-2xl shadow-2xl flex items-center justify-center transform -rotate-2 hover:rotate-0 transition-transform duration-500">
-                  <span className="text-4xl font-bold text-white">Hero Image</span>
-                </div>
+                <img
+                  src="https://www.tekshapers.com/uploads/blog_image/1536238340benefits-of-e-commerce.jpg"
+                  alt="Hero"
+                  className="w-full h-full object-cover rounded-2xl shadow-2xl transform -rotate-2 hover:rotate-0 transition-transform duration-500"
+                />
               </div>
             </div>
           </div>
